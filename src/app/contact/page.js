@@ -1,6 +1,6 @@
 
 
-const page = () => {
+const Contact = () => {
     return (
         <div>
             <h1>This is a contact route / page</h1>
@@ -8,4 +8,4 @@ const page = () => {
     );
 };
 
-export default page;
+export default Contact;

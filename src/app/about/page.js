@@ -1,6 +1,6 @@
 
 
-const page = () => {
+const About = () => {
     return (
         <div>
             <h1>This is a about route / page</h1>
@@ -8,4 +8,4 @@ const page = () => {
     );
 };
 
-export default page;
+export default About;
