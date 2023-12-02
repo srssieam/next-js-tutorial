@@ -12,9 +12,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <h1 className='text-white bg-violet-950 py-11 text-center'>Header</h1>
         {children}
-        <h1 className='text-white bg-green-950 text-center py-16'>footer</h1>
       </body>
     </html>
   )
